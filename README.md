@@ -4,8 +4,9 @@
 
 ### Computer Science Graduate • Full Stack Developer • QA Automation Engineer • DevOps Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&duration=1800&pause=1000&color=8A2BE2&center=true&vCenter=true&repeat=true&width=1000&lines=Hari+Kailash+Yadav+Anchala;ハリカイラシュ・ヤダブ・アンチャラ;Software+Developer;Full+Stack+Developer;Java+Developer;QA+Automation+Engineer+(Selenium);DevOps+Engineer;Frontend+Developer;Japanese+Certified+(NAT+N5)" alt="Typing Animation"/>
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+JP&size=30&duration=2000&pause=1000&color=8A2BE2&center=true&vCenter=true&repeat=true&width=900&lines=Hari+Kailash+Yadav+Anchala;%E3%83%8F%E3%83%AA%E3%82%AB%E3%82%A4%E3%83%A9%E3%82%B7%E3%83%A5%E3%83%BB%E3%83%A4%E3%83%80%E3%83%96%E3%83%BB%E3%82%A2%E3%83%B3%E3%83%81%E3%83%A3%E3%83%A9;Software+Developer;Full+Stack+Developer;QA+Automation+Engineer;DevOps+Engineer" />
+</p>
 <br><br>
 
 <a href="https://github-profile-sigma-ten.vercel.app/" target="_blank">
