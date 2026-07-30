@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# 👋 Hi, I'm Hari Kailash Yadav Anchala
+# 👋 Hi, I'm Hari Kailash  Anchala
 
 ## 🌐 Interactive GitHub Profile
 
