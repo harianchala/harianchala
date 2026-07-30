@@ -1,34 +1,77 @@
-<h1 align="center">Hi 👋, I'm Hari Kailash Yadav Anchala</h1>
+<div align="center">
 
-<h3 align="center">Computer Science Graduate | Full Stack Developer | QA Automation Engineer | DevOps Enthusiast</h3>
+# 👋 Hi, I'm Hari Kailash Yadav Anchala
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=2500&pause=1200&color=8A2BE2&center=true&vCenter=true&width=900&lines=Hari+Kailash+Yadav+Anchala;ハリカイラシユ+ヤダブ+アンチヤラ;Software+Developer;Full+Stack+Developer;Java+Developer;QA+Automation+Engineer+(Selenium);DevOps+Engineer;Frontend+Developer;Japanese+Certified+(NAT+N5)" />
-</p>
+### Computer Science Graduate • Full Stack Developer • QA Automation Engineer • DevOps Enthusiast
 
-<p align="center">
-  <a href="https://github-profile-sigma-ten.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Interactive_Portfolio-Visit_Now-6C63FF?style=for-the-badge" />
-  </a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&duration=1800&pause=1000&color=8A2BE2&center=true&vCenter=true&repeat=true&width=1000&lines=Hari+Kailash+Yadav+Anchala;ハリカイラシュ・ヤダブ・アンチャラ;Software+Developer;Full+Stack+Developer;Java+Developer;QA+Automation+Engineer+(Selenium);DevOps+Engineer;Frontend+Developer;Japanese+Certified+(NAT+N5)" alt="Typing Animation"/>
+
+<br><br>
+
+<a href="https://github-profile-sigma-ten.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/🌐%20Interactive%20Portfolio-Visit%20Now-6C63FF?style=for-the-badge" />
+</a>
+
+</div>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-- 🎓 Computer Science Graduate
-- 💻 Full Stack Developer
+- 🎓 B.Tech in Computer Science & Engineering
+- 💻 Full Stack Web Developer
 - ☕ Java & Spring Boot Developer
-- 🧪 QA Automation Engineer (Selenium + Cucumber)
+- 🧪 QA Automation Engineer (Selenium + Cucumber + Postman)
 - ⚙️ DevOps Enthusiast
 - 🇯🇵 Japanese Certified (NAT N5)
-- 🌱 Currently learning Cloud, DevOps & System Design
+- 🌱 Currently learning Cloud Computing, DevOps & System Design
 
 ---
 
-## 🌐 Interactive GitHub Profile
+# 🛠️ Tech Stack
 
-🔗 **Live Demo**
+### Languages
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+
+### Backend
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
+
+### Database
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+
+### Testing
+
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium)
+![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
+
+---
+
+# 🌐 Interactive GitHub Portfolio
+
+## 🔗 Live Demo
 
 ### https://github-profile-sigma-ten.vercel.app/
 
@@ -43,6 +86,30 @@
 
 ---
 
-<p align="center">
-  ⭐ Thanks for visiting my profile! ⭐
-</p>
+# 📌 Featured Projects
+
+### 🚀 Traveloop – AI-Powered Travel Management System
+
+A full-stack travel management platform built with Next.js, React.js, JavaScript, Supabase, PostgreSQL, Tailwind CSS, and REST APIs featuring secure authentication, trip planning, destination management, AI travel assistance, and real-time weather updates.
+
+---
+
+### 💼 Manpower Acquisition Planning System
+
+Enterprise Java application developed using JSP, Servlets, Maven, MySQL, and REST APIs to streamline student internship and job application management.
+
+---
+
+### 🧪 Software Testing Automation Project
+
+Automated web application testing using Selenium WebDriver, Cucumber BDD, Gherkin, Chromium WebDriver, XPath, and Postman for functional, regression, and API testing.
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile! ⭐
+
+**If you like my projects, consider giving them a ⭐**
+
+</div>
