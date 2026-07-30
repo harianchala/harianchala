@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Hari Kailash Yadav Anchala
+# 👋 Hi, I'm Hari Kailash Anchala
 
 ### Computer Science Graduate • Full Stack Developer • QA Automation Engineer • DevOps Enthusiast
 
@@ -10,7 +10,7 @@
 <br><br>
 
 <a href="https://github-profile-sigma-ten.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/🌐%20Interactive%20Portfolio-Visit%20Now-6C63FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🌐%20Interactive%20Git_Hub_Profile-Visit%20Now-6C63FF?style=for-the-badge" />
 </a>
 
 </div>
