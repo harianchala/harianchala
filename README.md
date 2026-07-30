@@ -104,6 +104,12 @@ Enterprise Java application developed using JSP, Servlets, Maven, MySQL, and RES
 
 Automated web application testing using Selenium WebDriver, Cucumber BDD, Gherkin, Chromium WebDriver, XPath, and Postman for functional, regression, and API testing.
 
+### 🐞 BugTrackPro – Bug & Issue Tracking System
+
+A full-stack bug tracking application developed using React.js, JavaScript, Spring Boot, MySQL, and REST APIs to streamline software issue management. The platform enables users to report, assign, prioritize, and track bugs through their lifecycle with secure authentication, role-based access control, real-time status updates, and an intuitive dashboard for efficient project collaboration.
+
+---
+
 ---
 
 <div align="center">
