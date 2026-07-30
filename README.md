@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**harianchala/harianchala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Hari Kailash Yadav Anchala
 
-Here are some ideas to get you started:
+## 🌐 Interactive GitHub Profile
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 **Live Demo:** https://github-profile-sigma-ten.vercel.app/
+
+Explore my interactive GitHub profile featuring:
+- 📊 GitHub Statistics
+- 📁 Repository Explorer
+- 💻 Skills & Tech Stack
+- 🏆 Certifications
+- 📈 Contribution Activity
